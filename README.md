@@ -37,7 +37,7 @@ npm run preview -- --host 0.0.0.0
 GitHub 저장소의 **Settings → Pages → Build and deployment → Source**를 **GitHub Actions**로 선택하세요.
 `main` 브랜치에 코드를 올리면 `.github/workflows/deploy.yml`이 검사·빌드 후 배포합니다.
 설정을 켜기 전에 실행되어 실패했다면 **Actions → Deploy portfolio to GitHub Pages → Re-run all jobs**로 다시 실행하세요.
-배포가 성공한 뒤 접속할 주소는 `https://yuuuujin1010.github.io/portfolio/`입니다.
+배포가 성공한 뒤 접속할 주소는 `https://yuuuujin1010.github.io/Portfolio/`입니다.
 
-GitHub Pages용 빌드는 `npm run build -- --base=/portfolio/`로 생성합니다.
+GitHub Pages용 빌드는 `npm run build -- --base=/Portfolio/`로 생성합니다.
 배포 성공 여부는 GitHub Actions에서 확인해야 합니다.
