@@ -1,6 +1,6 @@
 # 안유진 | 콘텐츠 · 인플루언서 마케팅
 
-[포트폴리오 본문](portfolio.md) · [HTML 파일](portfolio.html)
+[PDF 포트폴리오](portfolio.pdf) · [텍스트 본문](portfolio.md) · [HTML 파일](portfolio.html)
 
 뷰티 인플루언서 협업을 중심으로 올더뮤, 어퓨, 포토그레이, MCN 채널 분석, 클라우드 논알콜 사례를 정리했습니다. GS25 콘텐츠와 총학생회 축제 기획은 보조 사례입니다.
 
