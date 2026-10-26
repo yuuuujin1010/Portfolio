@@ -2,7 +2,7 @@
   {
     "id": "allthemu",
     "brand": "올더뮤",
-    "title": "셀럽 PPL부터 체험단까지, 제품을 만나는 접점을 넓히다",
+    "title": "같은 제품, 다른 설득. 셀럽부터 체험단까지.",
     "tag": "뷰티 · 인플루언서 캠페인",
     "period": "2025.07–2025.09",
     "role": "광고대행사 AE | 인플루언서 제안·가이드·운영·보고",
@@ -34,19 +34,34 @@
     "insight": "한 캠페인 안에서도 크리에이터마다 설명하는 방식과 협업 속도가 다릅니다. 공통으로 지킬 제품 메시지를 정리하고, 실행 과정은 파트너에 맞게 조율했습니다.",
     "links": [
       [
-        "콘텐츠 1",
+        "크리에이터 A · 원본 영상 보기",
         "https://www.instagram.com/p/DNnR8SSJaKD/"
       ],
       [
-        "콘텐츠 2",
+        "크리에이터 B · 원본 영상 보기",
         "https://www.instagram.com/reel/DNsfsmjZra-/"
       ]
+    ],
+    "teaser": "한 가지 USP를, 크리에이터마다 다른 장면으로 풀었습니다.",
+    "media": [
+      {
+        "title": "크리에이터 A",
+        "url": "https://www.instagram.com/p/DNnR8SSJaKD/",
+        "image": "assets/allthemu-1.jpg",
+        "label": "원본 영상 보기"
+      },
+      {
+        "title": "크리에이터 B",
+        "url": "https://www.instagram.com/reel/DNsfsmjZra-/",
+        "image": "assets/allthemu-2.jpg",
+        "label": "원본 영상 보기"
+      }
     ]
   },
   {
     "id": "apieu",
     "brand": "어퓨",
-    "title": "제품의 강점을 크리에이터의 일상 언어로 바꾸다",
+    "title": "제품 설명이, 그 사람의 추천처럼 들리도록.",
     "tag": "뷰티 · 마이크로 인플루언서",
     "period": "2025.08",
     "role": "광고대행사 AE | 후보 제안·가이드·검수·커뮤니케이션",
@@ -78,19 +93,34 @@
     "insight": "뷰티 콘텐츠의 가이드는 제품 정보를 빠짐없이 적는 것에서 끝나지 않습니다. 어떤 장면과 표현으로 보여줄지까지 정리해야 검수와 제작의 기준이 맞아집니다.",
     "links": [
       [
-        "콘텐츠 1",
-        "https://www.instagram.com/p/DNarUnRvHpv/"
+        "크리에이터 A · 원본 영상 보기",
+        "https://www.instagram.com/reel/DNVeMshzfoN/"
       ],
       [
-        "콘텐츠 2",
-        "https://www.instagram.com/reel/DNVeMshzfoN/"
+        "크리에이터 B · 원본 영상 보기",
+        "https://www.instagram.com/p/DNarUnRvHpv/"
       ]
+    ],
+    "teaser": "제품의 소구점과 크리에이터의 평소 콘텐츠 사이를 맞췄습니다.",
+    "media": [
+      {
+        "title": "크리에이터 A",
+        "url": "https://www.instagram.com/reel/DNVeMshzfoN/",
+        "image": "assets/apieu-1.jpg",
+        "label": "원본 영상 보기"
+      },
+      {
+        "title": "크리에이터 B",
+        "url": "https://www.instagram.com/p/DNarUnRvHpv/",
+        "image": "assets/apieu-2.jpg",
+        "label": "원본 영상 보기"
+      }
     ]
   },
   {
     "id": "photogray",
     "brand": "포토그레이",
-    "title": "신규 프레임을 설명하는 대신, 찍고 싶은 장면으로",
+    "title": "프레임을 알리는 대신, 찍고 싶은 장면을 만들다.",
     "tag": "숏폼 · 콘텐츠 기획",
     "period": "2025.04–2025.05",
     "role": "인하우스 인플루언서 마케팅 | 홍보 방향·릴스 기획",
@@ -121,19 +151,34 @@
     "insight": "사용 결과가 분명한 제품은 긴 설명보다 실제 적용 장면이 메시지를 빠르게 전달합니다. 숏폼 기획에서는 제품 정보와 시청자가 보고 싶어 하는 장면의 접점을 찾았습니다.",
     "links": [
       [
-        "릴스 1",
+        "크리에이터 A · 원본 영상 보기",
         "https://www.instagram.com/reel/DI3X_psyEa1/"
       ],
       [
-        "릴스 2",
+        "크리에이터 B · 원본 영상 보기",
         "https://www.instagram.com/reel/DJn_NwiSLoM/"
       ]
+    ],
+    "teaser": "신규 프레임의 사용 장면을 숏폼의 첫인상으로 바꿨습니다.",
+    "media": [
+      {
+        "title": "크리에이터 A",
+        "url": "https://www.instagram.com/reel/DI3X_psyEa1/",
+        "image": "assets/photogray-1.jpg",
+        "label": "원본 영상 보기"
+      },
+      {
+        "title": "크리에이터 B",
+        "url": "https://www.instagram.com/reel/DJn_NwiSLoM/",
+        "image": "assets/photogray-2.jpg",
+        "label": "원본 영상 보기"
+      }
     ]
   },
   {
     "id": "mcn",
-    "brand": "MCN 채널 성장 분석",
-    "title": "조회수 뒤의 반응을 읽고, 다음 콘텐츠를 제안하다",
+    "brand": "GS넷비전 · 크리에이터 성장 분석",
+    "title": "잘된 영상 다음에는, 무엇을 올려야 할까?",
     "tag": "유튜브 · 성과 분석",
     "period": "2025.01–2025.04",
     "role": "콘텐츠커머스팀 | 채널 분석·리포트·콘텐츠 방향 제안",
@@ -163,12 +208,36 @@
     ],
     "result": "기존 자료에 기재된 채널 조회수는 550만 회에서 1,710만 회로 증가했습니다. 정기 분석과 콘텐츠 피드백 체계를 마련해 채널 성장에 기여했습니다.",
     "insight": "같은 조회수라도 크리에이터의 포맷과 타깃에 따라 다음 실행이 달라집니다. 숫자를 보고서에 옮기는 데서 끝내지 않고, 다음에 시도할 주제로 연결했습니다.",
-    "links": []
+    "links": [
+      [
+        "크리에이터 A · 채널 보기",
+        "https://www.youtube.com/channel/UC0kWYJDvhh4bmcnafXn8tgw"
+      ],
+      [
+        "크리에이터 B · 채널 보기",
+        "https://www.youtube.com/channel/UCg_7DlY17asK8O6EJJlKwnA"
+      ]
+    ],
+    "teaser": "조회수의 크기보다, 다음 영상에 쓸 이유를 찾았습니다.",
+    "media": [
+      {
+        "title": "크리에이터 A",
+        "url": "https://www.youtube.com/channel/UC0kWYJDvhh4bmcnafXn8tgw",
+        "image": null,
+        "label": "채널 보기"
+      },
+      {
+        "title": "크리에이터 B",
+        "url": "https://www.youtube.com/channel/UCg_7DlY17asK8O6EJJlKwnA",
+        "image": null,
+        "label": "채널 보기"
+      }
+    ]
   },
   {
     "id": "cloud",
     "brand": "클라우드 논알콜",
-    "title": "76명의 협업을 하나의 일정과 콘텐츠 방향으로",
+    "title": "76개의 일상에, 같은 제품을 다르게 담다.",
     "tag": "F&B · 대규모 시딩",
     "period": "2025.12–2026.01",
     "role": "광고대행사 AE | 후보 제안·가이드·섭외·운영·보고",
@@ -200,13 +269,28 @@
     "insight": "협업 규모가 커질수록 메시지와 일정의 기준이 분명해야 합니다. 가이드부터 문의 대응, 업로드 확인까지 연결해 캠페인을 마무리했습니다.",
     "links": [
       [
-        "콘텐츠 1",
+        "크리에이터 A · 원본 영상 보기",
         "https://www.instagram.com/p/DTqEhmwk3T1/"
       ],
       [
-        "콘텐츠 2",
+        "크리에이터 B · 원본 영상 보기",
         "https://www.instagram.com/p/DTChdWeAUct/"
       ]
+    ],
+    "teaser": "시즌 이슈를 콘텐츠로 옮기고, 76명의 업로드까지 챙겼습니다.",
+    "media": [
+      {
+        "title": "크리에이터 A",
+        "url": "https://www.instagram.com/p/DTqEhmwk3T1/",
+        "image": "assets/cloud-1.jpg",
+        "label": "원본 영상 보기"
+      },
+      {
+        "title": "크리에이터 B",
+        "url": "https://www.instagram.com/p/DTChdWeAUct/",
+        "image": "assets/cloud-2.jpg",
+        "label": "원본 영상 보기"
+      }
     ]
   }
 ]
